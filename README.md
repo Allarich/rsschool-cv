@@ -1,1 +1,0 @@
-https://Allarich.github.io/rsschool-cv/cv
