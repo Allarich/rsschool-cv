@@ -1,0 +1,84 @@
+<style>
+    .head1{
+        font-size: 100px;
+        color: black;
+        background-color: rgb(255, 251, 5);
+        width: auto;
+        height: 150px;
+        margin: 0px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    a {
+        text-decoration: none;
+    }
+    html{
+        background-image: url(https://wallpaperscave.ru/images/original/18/05-30/tv-series-futurama-52581.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    .avatar{
+        height: 200px;
+        width: 200px;
+    }
+    .name{
+        font-size: 30px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .emaildiscord{
+        font-size: 20px;
+    }
+    .aside{
+        background-color: grey;
+        width: 250px;
+        height: 1500px;
+    }
+    .about{
+        font-size: 50px;
+        position: relative;
+        top: -1500px;
+        left: 300px;
+        text-align: left;
+        background-color:white;
+        width: 900px;
+        height: 1440px;
+    }
+   .p1{
+       text-align: left;
+       font-size: 20px;
+       line-height: 10px;
+   }
+   #p1{
+    margin-left: 20px;
+   }
+   #p3{
+       margin-left: 20px;
+   }
+   .code{
+    margin-left: 20px;
+    font-size: 30px;
+    line-height: 10px;
+   }
+   .footer{
+    font-size: 100px;
+        color: black;
+        background-color: rgb(255, 251, 5);
+        width: auto;
+        height: 150px;
+        margin: 0px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        top: -1550px
+   }
+   .logo{
+       position: relative;
+       top: -150px;
+       left: 1200px;
+       width: 100px;
+       height: 100px;
+   }
+   </style>
